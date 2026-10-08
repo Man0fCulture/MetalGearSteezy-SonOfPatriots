@@ -47,15 +47,15 @@
 Binaries/
 
 # Builds
-Metroid_Prime_Sprt1/Build/*
+MGSSOP/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Metroid_Prime_Sprt1/Build/*/
-Metroid_Prime_Sprt1/Build/*/**
-!Metroid_Prime_Sprt1/Build/*/PakBlacklist*.txt
+!MGSSOP/Build/*/
+MGSSOP/Build/*/**
+!MGSSOP/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Metroid_Prime_Sprt1/Build/**/*.ico
+!MGSSOP/Build/**/*.ico
 
 # Keep source art and map built-data assets versioned for the team.
 
