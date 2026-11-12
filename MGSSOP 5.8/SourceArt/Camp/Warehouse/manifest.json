@@ -1,0 +1,811 @@
+{
+ "Rack_A": {
+  "mesh": "SM_WH_Rack_A",
+  "mats": [
+   "worn_metal_rack"
+  ],
+  "min": [
+   -0.458,
+   -0.3,
+   0.0
+  ],
+  "max": [
+   0.458,
+   0.3,
+   1.9
+  ],
+  "tris": 6372,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Rack_A"
+  ]
+ },
+ "Shelf_A": {
+  "mesh": "SM_WH_Shelf_A",
+  "mats": [
+   "steel_frame_shelves_01"
+  ],
+  "min": [
+   -0.549,
+   -0.251,
+   0.0
+  ],
+  "max": [
+   0.549,
+   0.251,
+   2.141
+  ],
+  "tris": 4348,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Shelf_A"
+  ]
+ },
+ "Shelf_B": {
+  "mesh": "SM_WH_Shelf_B",
+  "mats": [
+   "steel_frame_shelves_02"
+  ],
+  "min": [
+   -0.297,
+   -0.251,
+   0.0
+  ],
+  "max": [
+   0.297,
+   0.251,
+   2.142
+  ],
+  "tris": 4348,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Shelf_B"
+  ]
+ },
+ "MilCrate_Closed": {
+  "mesh": "SM_WH_MilCrate_Closed",
+  "mats": [
+   "military_crate_m_01"
+  ],
+  "min": [
+   -0.408,
+   -0.269,
+   0.0
+  ],
+  "max": [
+   0.408,
+   0.269,
+   0.301
+  ],
+  "tris": 10476,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "MilCrate"
+  ]
+ },
+ "MilCrate_Open": {
+  "mesh": "SM_WH_MilCrate_Open",
+  "mats": [
+   "military_crate_m_01"
+  ],
+  "min": [
+   -0.408,
+   -0.488,
+   0.0
+  ],
+  "max": [
+   0.408,
+   0.488,
+   0.258
+  ],
+  "tris": 10476,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "MilCrate"
+  ]
+ },
+ "StorageCart": {
+  "mesh": "SM_WH_StorageCart",
+  "mats": [
+   "industrial_storage_cart"
+  ],
+  "min": [
+   -0.802,
+   -0.551,
+   0.0
+  ],
+  "max": [
+   0.802,
+   0.551,
+   1.377
+  ],
+  "tris": 18902,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "StorageCart"
+  ]
+ },
+ "Drum_Red": {
+  "mesh": "SM_WH_Drum_Red",
+  "mats": [
+   "Barrel_01"
+  ],
+  "min": [
+   -0.282,
+   -0.282,
+   0.0
+  ],
+  "max": [
+   0.282,
+   0.282,
+   0.88
+  ],
+  "tris": 2682,
+  "uv": [
+   "UVChannel_1"
+  ],
+  "slots": [
+   "Drum_Red"
+  ]
+ },
+ "Drum_Blue": {
+  "mesh": "SM_WH_Drum_Blue",
+  "mats": [
+   "barrel_03"
+  ],
+  "min": [
+   -0.317,
+   -0.319,
+   0.0
+  ],
+  "max": [
+   0.317,
+   0.319,
+   0.93
+  ],
+  "tris": 1473,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Drum_Blue"
+  ]
+ },
+ "Drum_Plastic": {
+  "mesh": "SM_WH_Drum_Plastic",
+  "mats": [
+   "Barrel_02"
+  ],
+  "min": [
+   -0.244,
+   -0.242,
+   0.0
+  ],
+  "max": [
+   0.244,
+   0.242,
+   0.88
+  ],
+  "tris": 2688,
+  "uv": [
+   "UVChannel_1"
+  ],
+  "slots": [
+   "Drum_Plastic"
+  ]
+ },
+ "AmmoBox": {
+  "mesh": "SM_WH_AmmoBox",
+  "mats": [
+   "ammo_box"
+  ],
+  "min": [
+   -0.043,
+   -0.129,
+   0.0
+  ],
+  "max": [
+   0.043,
+   0.129,
+   0.177
+  ],
+  "tris": 4382,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "AmmoBox"
+  ]
+ },
+ "WoodCrate_A": {
+  "mesh": "SM_WH_WoodCrate_A",
+  "mats": [
+   "wooden_crate_01"
+  ],
+  "min": [
+   -0.413,
+   -0.204,
+   0.0
+  ],
+  "max": [
+   0.413,
+   0.204,
+   0.35
+  ],
+  "tris": 6576,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "WoodCrate_A"
+  ]
+ },
+ "WoodCrate_B": {
+  "mesh": "SM_WH_WoodCrate_B",
+  "mats": [
+   "wooden_crate_02"
+  ],
+  "min": [
+   -0.583,
+   -0.265,
+   0.0
+  ],
+  "max": [
+   0.583,
+   0.265,
+   0.464
+  ],
+  "tris": 5176,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "WoodCrate_B"
+  ]
+ },
+ "CardboardBox": {
+  "mesh": "SM_WH_CardboardBox",
+  "mats": [
+   "cardboard_box_01"
+  ],
+  "min": [
+   -0.194,
+   -0.258,
+   0.0
+  ],
+  "max": [
+   0.194,
+   0.258,
+   0.342
+  ],
+  "tris": 16952,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "CardboardBox"
+  ]
+ },
+ "PlasticCrate": {
+  "mesh": "SM_WH_PlasticCrate",
+  "mats": [
+   "plastic_crate_01"
+  ],
+  "min": [
+   -0.149,
+   -0.204,
+   0.0
+  ],
+  "max": [
+   0.149,
+   0.204,
+   0.264
+  ],
+  "tris": 18320,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "PlasticCrate"
+  ]
+ },
+ "ToolChest": {
+  "mesh": "SM_WH_ToolChest",
+  "mats": [
+   "metal_tool_chest"
+  ],
+  "min": [
+   -0.343,
+   -0.204,
+   0.0
+  ],
+  "max": [
+   0.343,
+   0.204,
+   0.652
+  ],
+  "tris": 13380,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "ToolChest"
+  ]
+ },
+ "Toolbox": {
+  "mesh": "SM_WH_Toolbox",
+  "mats": [
+   "metal_toolbox"
+  ],
+  "min": [
+   -0.2,
+   -0.135,
+   0.0
+  ],
+  "max": [
+   0.2,
+   0.135,
+   0.305
+  ],
+  "tris": 14228,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Toolbox"
+  ]
+ },
+ "ToolCart": {
+  "mesh": "SM_WH_ToolCart",
+  "mats": [
+   "tool_cart"
+  ],
+  "min": [
+   -0.637,
+   -0.377,
+   0.0
+  ],
+  "max": [
+   0.637,
+   0.377,
+   0.965
+  ],
+  "tris": 29394,
+  "uv": [
+   "st"
+  ],
+  "slots": [
+   "ToolCart"
+  ]
+ },
+ "HandTruck": {
+  "mesh": "SM_WH_HandTruck",
+  "mats": [
+   "hand_truck"
+  ],
+  "min": [
+   -0.297,
+   -0.346,
+   0.0
+  ],
+  "max": [
+   0.297,
+   0.346,
+   1.403
+  ],
+  "tris": 13220,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "HandTruck"
+  ]
+ },
+ "CementBag": {
+  "mesh": "SM_WH_CementBag",
+  "mats": [
+   "cement_bag"
+  ],
+  "min": [
+   -0.231,
+   -0.35,
+   0.0
+  ],
+  "max": [
+   0.231,
+   0.35,
+   0.18
+  ],
+  "tris": 844,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "CementBag"
+  ]
+ },
+ "PowerBox": {
+  "mesh": "SM_WH_PowerBox",
+  "mats": [
+   "power_box_01"
+  ],
+  "min": [
+   -0.202,
+   -0.371,
+   -0.252
+  ],
+  "max": [
+   0.175,
+   0.047,
+   0.252
+  ],
+  "tris": 21272,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "PowerBox"
+  ]
+ },
+ "HangingLamp": {
+  "mesh": "SM_WH_HangingLamp",
+  "mats": [
+   "hanging_industrial_lamp",
+   "hanging_industrial_lamp_glass"
+  ],
+  "min": [
+   -0.275,
+   -0.275,
+   -1.34
+  ],
+  "max": [
+   0.275,
+   0.275,
+   0.015
+  ],
+  "tris": 9530,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "HangingLamp",
+   "GLASS"
+  ]
+ },
+ "CagedLight": {
+  "mesh": "SM_WH_CagedLight",
+  "mats": [
+   "caged_hanging_light"
+  ],
+  "min": [
+   -0.58,
+   -0.157,
+   -0.75
+  ],
+  "max": [
+   0.582,
+   0.157,
+   0.0
+  ],
+  "tris": 22893,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "CagedLight"
+  ]
+ },
+ "WallLamp": {
+  "mesh": "SM_WH_WallLamp",
+  "mats": [
+   "industrial_wall_lamp",
+   "industrial_wall_lamp_glass"
+  ],
+  "min": [
+   -0.137,
+   -0.14,
+   -0.215
+  ],
+  "max": [
+   0.137,
+   -0.0,
+   0.215
+  ],
+  "tris": 4446,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "WallLamp",
+   "GLASS"
+  ]
+ },
+ "Jerrycan_Green": {
+  "mesh": "SM_WH_Jerrycan_Green",
+  "mats": [
+   "metal_jerrycan_green"
+  ],
+  "min": [
+   -0.18,
+   -0.085,
+   0.0
+  ],
+  "max": [
+   0.18,
+   0.085,
+   0.5
+  ],
+  "tris": 9636,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Jerrycan_Green"
+  ]
+ },
+ "Jerrycan_Red": {
+  "mesh": "SM_WH_Jerrycan_Red",
+  "mats": [
+   "metal_jerrycan"
+  ],
+  "min": [
+   -0.175,
+   -0.086,
+   0.0
+  ],
+  "max": [
+   0.175,
+   0.086,
+   0.455
+  ],
+  "tris": 20022,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Jerrycan_Red"
+  ]
+ },
+ "Generator": {
+  "mesh": "SM_WH_Generator",
+  "mats": [
+   "portable_generator"
+  ],
+  "min": [
+   -0.409,
+   -0.282,
+   0.0
+  ],
+  "max": [
+   0.409,
+   0.282,
+   0.577
+  ],
+  "tris": 26365,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Generator"
+  ]
+ },
+ "WeldingCart": {
+  "mesh": "SM_WH_WeldingCart",
+  "mats": [
+   "portable_welding_cart"
+  ],
+  "min": [
+   -0.419,
+   -0.327,
+   0.0
+  ],
+  "max": [
+   0.419,
+   0.327,
+   1.563
+  ],
+  "tris": 29258,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "WeldingCart"
+  ]
+ },
+ "PropaneTank": {
+  "mesh": "SM_WH_PropaneTank",
+  "mats": [
+   "propane_tank"
+  ],
+  "min": [
+   -0.169,
+   -0.169,
+   0.0
+  ],
+  "max": [
+   0.169,
+   0.169,
+   0.554
+  ],
+  "tris": 5238,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "PropaneTank"
+  ]
+ },
+ "Extinguisher": {
+  "mesh": "SM_WH_Extinguisher",
+  "mats": [
+   "korean_fire_extinguisher_01_body"
+  ],
+  "min": [
+   -0.14,
+   -0.184,
+   0.0
+  ],
+  "max": [
+   0.14,
+   0.184,
+   0.659
+  ],
+  "tris": 9561,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Extinguisher"
+  ]
+ },
+ "Ladder": {
+  "mesh": "SM_WH_Ladder",
+  "mats": [
+   "ladder_sectioned_01"
+  ],
+  "min": [
+   -0.331,
+   -0.089,
+   0.0
+  ],
+  "max": [
+   0.331,
+   0.089,
+   2.135
+  ],
+  "tris": 29140,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Ladder"
+  ]
+ },
+ "BarrelStove": {
+  "mesh": "SM_WH_BarrelStove",
+  "mats": [
+   "barrel_stove"
+  ],
+  "min": [
+   -0.296,
+   -0.296,
+   0.0
+  ],
+  "max": [
+   0.296,
+   0.296,
+   0.856
+  ],
+  "tris": 9216,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "BarrelStove"
+  ]
+ },
+ "Desk": {
+  "mesh": "SM_WH_Desk",
+  "mats": [
+   "metal_office_desk"
+  ],
+  "min": [
+   -1.0,
+   -0.474,
+   0.0
+  ],
+  "max": [
+   1.0,
+   0.474,
+   0.788
+  ],
+  "tris": 6898,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Desk"
+  ]
+ },
+ "Tyre": {
+  "mesh": "SM_WH_Tyre",
+  "mats": [
+   "tire_r13_01"
+  ],
+  "min": [
+   -0.3,
+   -0.3,
+   0.0
+  ],
+  "max": [
+   0.3,
+   0.3,
+   0.165
+  ],
+  "tris": 2880,
+  "uv": [
+   "st"
+  ],
+  "slots": [
+   "Tyre"
+  ]
+ },
+ "Barrier_A": {
+  "mesh": "SM_WH_Barrier_A",
+  "mats": [
+   "concrete_road_barrier_02"
+  ],
+  "min": [
+   -0.783,
+   -0.221,
+   0.0
+  ],
+  "max": [
+   0.783,
+   0.221,
+   1.112
+  ],
+  "tris": 23822,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Barrier_A"
+  ]
+ },
+ "Barrier_B": {
+  "mesh": "SM_WH_Barrier_B",
+  "mats": [
+   "concrete_road_barrier"
+  ],
+  "min": [
+   -0.773,
+   -0.319,
+   0.0
+  ],
+  "max": [
+   0.773,
+   0.319,
+   0.831
+  ],
+  "tris": 60928,
+  "uv": [
+   "UVMap"
+  ],
+  "slots": [
+   "Barrier_B"
+  ]
+ }
+}
