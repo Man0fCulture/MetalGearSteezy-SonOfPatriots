@@ -1,0 +1,2 @@
+T_Icon_PeanutBar rendered in Blender (Eevee toon pass + Freestyle lines), composed by Saved/ClaudeCamp/icons/compose.py
+Source model (Sketchfab, CC Attribution 4.0): "Chocolate" by devarshi.talukdar.9
