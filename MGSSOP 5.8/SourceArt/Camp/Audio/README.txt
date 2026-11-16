@@ -21,3 +21,10 @@ SW_Bino_ZoomTick.wav | 0.07 s | one-shot | Tiny soft zoom-ring tick (filtered cl
 SW_Tuto_StepDone.wav | 0.60 s | one-shot | Tutorial step done: understated two-note confirmation (880 Hz then 1318 Hz, a fifth apart) | procedural placeholder — replace with a recorded sound
 SW_Camp_RadioSquelch.wav | 0.40 s | one-shot | Walkie-talkie squelch/static burst (400-3500 Hz) with hard start, short tail and tiny end click | procedural placeholder — replace with a recorded sound
 SW_UI_PromptOpen.wav | 0.12 s | one-shot | Very subtle 1.2 kHz blip for an interaction prompt appearing | procedural placeholder — replace with a recorded sound
+
+--- added 2026-11-16 ---
+SW_Step_Hard_01..10.wav | ~0.42 s | one-shot | Boot steps on a hard floor, cut from the menu's own walk recording (Content/Assets/Menu/Sounds/bruitDePas, exported, the asset itself untouched), level-matched | recorded (project asset)
+SW_Step_Dirt_01..10.wav | ~0.42 s | one-shot | Same steps softened (low-pass) + procedural gravel crunch grains + a little wet squelch, for the muddy camp ground | derived — Saved/ClaudeCamp/py/make_steps.py
+SW_CQC_GuardChoke.wav | 2.52 s | one-shot | Guard voice during the rear choke ("c'est quoi ce..." then strangled), from the user's C'est quoi ce.mp3 | provided by the user
+SW_CQC_GuardSurprise.wav / SW_CQC_GuardSweep.wav | 0.82 s / 0.53 s | one-shot | Front throw: "c'est quoi ça" at the grab, then the sweep, from the user's C'est quoi ça.mp3 | provided by the user
+SW_Bino_ZoomIn/ZoomOut/Ping.wav | | one-shot | Binocular zoom in / zoom out / mark ping, from the user's mp3s | provided by the user

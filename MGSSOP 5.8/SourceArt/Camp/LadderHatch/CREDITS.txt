@@ -1,0 +1,5 @@
+SM_Tuto_LadderHatch (tutorial hangar floor hatch + ladder), assembled in Blender from:
+- "Floor hatch" by elesso (Sketchfab, CC Attribution) : https://sketchfab.com/3d-models/2c5daf21ad8848198ede3e9f1c70e126
+- "Roof Ladder - 4096px²" by mark-peters (Sketchfab, CC Attribution) : https://sketchfab.com/3d-models/ce757c59f2dd4448a01beaeaeb73652a
+- "Green Metal Rust" texture by Rob Tuytel (Poly Haven, CC0) : https://polyhaven.com/a/green_metal_rust
+Textures T_TutoHatch_*: _D base colour, _N normal (DirectX), _ORM (AO, roughness, metallic).
