@@ -25,6 +25,5 @@ SW_UI_PromptOpen.wav | 0.12 s | one-shot | Very subtle 1.2 kHz blip for an inter
 --- added 2026-11-16 ---
 SW_Step_Hard_01..10.wav | ~0.42 s | one-shot | Boot steps on a hard floor, cut from the menu's own walk recording (Content/Assets/Menu/Sounds/bruitDePas, exported, the asset itself untouched), level-matched | recorded (project asset)
 SW_Step_Dirt_01..10.wav | ~0.42 s | one-shot | Same steps softened (low-pass) + procedural gravel crunch grains + a little wet squelch, for the muddy camp ground | derived — Saved/ClaudeCamp/py/make_steps.py
-SW_CQC_GuardChoke.wav | 2.52 s | one-shot | Guard voice during the rear choke ("c'est quoi ce..." then strangled), from the user's C'est quoi ce.mp3 | provided by the user
-SW_CQC_GuardSurprise.wav / SW_CQC_GuardSweep.wav | 0.82 s / 0.53 s | one-shot | Front throw: "c'est quoi ça" at the grab, then the sweep, from the user's C'est quoi ça.mp3 | provided by the user
+SW_CQC_GuardChoke.wav | 2.52 s | one-shot | Guard voice on both CQC moves (rear choke and throw) ("c'est quoi ce..." then strangled), from the user's C'est quoi ce.mp3 | provided by the user
 SW_Bino_ZoomIn/ZoomOut/Ping.wav | | one-shot | Binocular zoom in / zoom out / mark ping, from the user's mp3s | provided by the user
